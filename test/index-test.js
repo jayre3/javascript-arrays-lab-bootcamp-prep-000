@@ -90,3 +90,4 @@ function destructivelyPrependKitten(kitten) {
 function destructivelyRemoveFirstKitten(kitten) {
  kittens.shift(kitten);
 }
+
